@@ -41,15 +41,15 @@ python main.py
 Below are screenshots demonstrating the bot's functionality:
 
 1. **Chat Interface**
-   - ![]()
+   - ![](https://github.com/TeslenkoPavlo/NeoMindAIAssistantBot/blob/main/assets/screenshots/screenshot_1.png)
    - Caption: Main interaction screen where users can communicate with the AI assistant
 
 2. **Response Examples**
-   - ![]()
+   - ![](https://github.com/TeslenkoPavlo/NeoMindAIAssistantBot/blob/main/assets/screenshots/screenshot_2.png)
    - Caption: Examples of bot responses to various user queries
 
 3. **Special Features**
-   - ![]()
+   - ![](https://github.com/TeslenkoPavlo/NeoMindAIAssistantBot/blob/main/assets/screenshots/screenshot_3.png)
    - Caption: Demonstration of special capabilities and features
 
 ## Contributing
