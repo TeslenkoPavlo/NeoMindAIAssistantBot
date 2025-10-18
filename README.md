@@ -59,6 +59,13 @@ Below are screenshots demonstrating the bot's functionality:
 - ![](https://github.com/TeslenkoPavlo/NeoMindAIAssistantBot/blob/main/assets/screenshots/screenshot_4.png)
 - Caption: Screenshot showing successful deployment of the NeoMind AI Assistant Bot
 
+## API
+
+### API Screenshot
+
+- ![](https://github.com/TeslenkoPavlo/NeoMindAIAssistantBot/blob/main/assets/screenshots/screenshot_5.png)
+- Caption: Screenshot demonstrating API usage or API response
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
