@@ -64,7 +64,7 @@ Below are screenshots demonstrating the bot's functionality:
 ### API Screenshot
 
 - ![](https://github.com/TeslenkoPavlo/NeoMindAIAssistantBot/blob/main/assets/screenshots/screenshot_5.png)
-- Caption: Screenshot demonstrating API usage or API response
+- Caption: Screenshot demonstrating API Rate Limit
 
 ## Contributing
 
